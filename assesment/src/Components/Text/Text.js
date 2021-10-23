@@ -1,5 +1,7 @@
 import React from "react";
 
+import "./Text.scss";
+
 const Text = () => {
   return (
     <div className="Text">
